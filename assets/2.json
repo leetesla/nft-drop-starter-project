@@ -1,0 +1,19 @@
+{
+  "name": "patani-2",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "4nnC8Zm9WY2QUXh9ix9VYVYkUTTam2ktn2q9hadr5Vuz",
+        "share": 100
+      }
+    ]
+  }
+}
